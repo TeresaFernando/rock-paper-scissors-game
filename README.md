@@ -27,6 +27,7 @@ An interactive Rock Paper Scissors game built using **HTML**, **CSS**, and **Jav
 3. The winner is displayed, and scores are updated.
 
 ## 📂 Project Structure
+```text
 rock-paper-scissors-game/
 │
 ├── index.html # Main game page
@@ -36,6 +37,7 @@ rock-paper-scissors-game/
 ├── rock.png
 ├── paper.png
 └── scissors.png
+```
 
 ## 💡 How to Run Locally
 
